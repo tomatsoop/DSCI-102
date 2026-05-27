@@ -1,2 +1,2 @@
 # DSCI-102
-DSCI w Andrew Muncheisium
+Intro to Pandas, continuation of statistical principles.
